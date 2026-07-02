@@ -1,0 +1,1 @@
+Ссылка на файл с оценкой и описанием датасетов: https://docs.google.com/document/d/1WuN0YPBu4RAB_AZ9euRq78BAiTovju3V/edit?usp=sharing&ouid=116746020251439271662&rtpof=true&sd=true 
